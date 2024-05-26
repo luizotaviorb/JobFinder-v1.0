@@ -1,3 +1,3 @@
-Desenvolvido com: HTML, CSS, Javascript, sequelize, sqlite, Node and React
+Desenvolvido com: HTML, CSS, Javascript, Express, Sequelize, sqlite, Node and React
 
-Devoloped with: HTML, CSS, Javascript, sequelize, sqlite, Node and React
+Devoloped with: HTML, CSS, Javascript, Express, Sequelize, sqlite, Node and React
